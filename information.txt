@@ -1,0 +1,5 @@
+Pignataro Loucas -> etu41645@henallux.be
+Lambert Alexandre -> etu44621@henallux.be
+
+Login DB : 
+Utilisateur : root mdp : java
